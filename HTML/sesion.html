@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>InfSea</title>
+    <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/estilo.css">
+</head>
+<body>
+    <h1 class="text-bg-primary p-3"><em>InfSea</em></h1>
+    <div id="contenedor">
+        <nav>
+            <form class="position-absolute top-10 end-0">
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" id="botonBienvenida" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                 Bienvenido
+                                
+                            </button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+                                <div class="d-flex justify-content-center">
+                                    <button type="button" class="btn btn-primary mx-auto">Cerrar Sesión</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>    
+            </form>
+        </nav>
+        
+        <section>
+            <div id="contenedor-tarjetas">
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                <script>
+                    $(document).ready(function() {
+                        $.ajax({
+                            url: '../php/texto.php',
+                            dataType: 'html',
+                            success: function(data) {
+                                $('#contenedor-tarjetas').html(data);
+                            }
+                        });
+                    });
+                </script>
+            </div>
+        </section>
+    
+        <aside>
+            <!-- Contenido de la barra lateral -->
+        </aside>
+    
+        <footer>
+            <!-- Contenido del pie de página -->
+        </footer>
+    </div>
+    <script src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../JS/dato.js"></script>
+</body>
+</html>

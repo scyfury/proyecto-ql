@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>InfSea</title>
+        <!-- Conexión a CSS de Bootstrap de manera local -->
+        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/estilo.css">
+        <script src="../JS/sweetalert2.js"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+
+    </head>
+
+    <body>
+
+        <h1 class="text-bg-primary p-3"><em>InfSea</em></h1>        
+        <div id="contenedorrecuperar">
+
+            <br>
+            <h2>Recuperar Cuenta</h2>
+            <br>     
+            <form method="post" action="../PHP/validacorreo.php">  
+                <div class="container" style="width: 20rem;">
+                    <div class="form-floating mb-3">
+                        <input type="email" class="form-control" id="floatingInput" name="correo_electronico" placeholder="name@example.com">
+                        <label for="floatingInput">Correo electrónico</label>
+                    </div>
+                    <br>  
+                    <button class="btn btn-primary" type="button" onclick="window.location.href='../indexreal.html'">Volver a Inicio</button>
+                    <button type="submit" class="right-aligned-button btn btn-primary" id="btn_enviar">Enviar</button>
+                </div>
+            </form>
+        </div>
+        <!-- Conexión a los archivos JS de Bootstrap de manera local -->
+        <script src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="../JS/btnenviar.js"></script>
+    </body>
+</html>

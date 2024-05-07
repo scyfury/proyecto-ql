@@ -1,0 +1,1887 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Capital Increase in Genmab as a Result of Employee Warrant Exercise",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877130\/0\/en\/Capital-Increase-in-Genmab-as-a-Result-of-Employee-Warrant-Exercise.html",
+            "time_published": "20240507T182700",
+            "authors": [
+                "Genmab A\/S"
+            ],
+            "summary": "Company Announcement ...",
+            "banner_image": "https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/368a5dab-dfc5-4e1d-bfa6-2af5e5216fce",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.181082,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GMAB",
+                    "relevance_score": "0.559416",
+                    "ticker_sentiment_score": "0.196862",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Toll Brothers Honored at the Shore Builders Association of Central New Jersey Awards",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877131\/1924\/en\/Toll-Brothers-Honored-at-the-Shore-Builders-Association-of-Central-New-Jersey-Awards.html",
+            "time_published": "20240507T182700",
+            "authors": [
+                "Toll Brothers",
+                "Inc."
+            ],
+            "summary": "Toll Brothers wins six FAME awards, including Community of the Year for Regency at ...",
+            "banner_image": "https:\/\/ml.globenewswire.com\/Resource\/Download\/af04f456-d286-4032-afe2-f1548511605b\/regency-at-manalapan-florham-devonshire-great-room-1-cc.jpg",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                }
+            ],
+            "overall_sentiment_score": 0.443488,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TOL",
+                    "relevance_score": "0.653008",
+                    "ticker_sentiment_score": "0.626187",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Carvana's Turnaround Could Be Just Beginning",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/07\/carvanas-turnaround-could-be-just-beginning\/",
+            "time_published": "20240507T182200",
+            "authors": [
+                "Yun Chung Lee"
+            ],
+            "summary": "The used car specialist has further avenues for growth.",
+            "banner_image": "https:\/\/g.foolcdn.com\/editorial\/images\/776204\/car-on-_carvana-delivery-truck-with-logo_carvana.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.220636,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AN",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "0.077388",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVNA",
+                    "relevance_score": "0.792165",
+                    "ticker_sentiment_score": "0.313346",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KMX",
+                    "relevance_score": "0.091162",
+                    "ticker_sentiment_score": "0.077388",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Medicare Basics: 11 Things You Need to Know",
+            "url": "https:\/\/www.kiplinger.com\/retirement\/medicare\/medicare-basics-things-you-need-to-know",
+            "time_published": "20240507T182010",
+            "authors": [
+                "Catherine Siskos",
+                "Donna LeValley"
+            ],
+            "summary": "Understanding Medicare basics may be one of the most maddening tasks you'll face when heading into retirement. Figuring out when to enroll in Medicare and which parts of Medicare to elect can be daunting even for the savviest retirees. There are Part A, Part B, Part D, Medigap plans, Medicare ...",
+            "banner_image": "https:\/\/cdn.mos.cms.futurecdn.net\/hwgJ7osrMtUWhk5koeVme7-320-80.png",
+            "source": "Kiplinger",
+            "category_within_source": "n\/a",
+            "source_domain": "www.kiplinger.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.079336,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Six Travel Mistakes to Avoid",
+            "url": "https:\/\/www.kiplinger.com\/personal-finance\/travel\/travel-mistakes-to-avoid",
+            "time_published": "20240507T181806",
+            "authors": [
+                "Daniel Bortz"
+            ],
+            "summary": "Even the most seasoned tourists can make travel mistakes when planning a vacation. Some blunders can be minor infractions, but others can cost travelers a lot of money and heartache. But there are steps you can take to avoid travel mistakes.",
+            "banner_image": "https:\/\/cdn.mos.cms.futurecdn.net\/hwgJ7osrMtUWhk5koeVme7-320-80.png",
+            "source": "Kiplinger",
+            "category_within_source": "n\/a",
+            "source_domain": "www.kiplinger.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.074564,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.037213",
+                    "ticker_sentiment_score": "0.108614",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ABNB",
+                    "relevance_score": "0.074345",
+                    "ticker_sentiment_score": "0.04449",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JBLU",
+                    "relevance_score": "0.037213",
+                    "ticker_sentiment_score": "0.058278",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAL",
+                    "relevance_score": "0.037213",
+                    "ticker_sentiment_score": "0.058278",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Solar Stocks in Play - Investors betting on Pineapple Energy Inc.  ( NASDAQ: PEGY )  Earnings",
+            "url": "https:\/\/www.investorideas.com\/news\/2024\/renewable-energy\/05071Solar-Pineapple-Energy-PEGY.asp",
+            "time_published": "20240507T181553",
+            "authors": [],
+            "summary": "May 7, 2024 ( Investorideas.com Newswire ) Investorideas.com, a go-to platform for big investing ideas, reports on trading for Pineapple Energy Inc. ( NASDAQ: PEGY ) , a leading provider of sustainable solar energy and back-up power to households and small businesses.",
+            "banner_image": null,
+            "source": "Investor Ideas",
+            "category_within_source": "n\/a",
+            "source_domain": "www.investorideas.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.293229,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PEGY",
+                    "relevance_score": "0.355588",
+                    "ticker_sentiment_score": "0.165646",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Avista prepares for wildfire season",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877128\/0\/en\/Avista-prepares-for-wildfire-season.html",
+            "time_published": "20240507T181500",
+            "authors": [
+                "Avista Corporation"
+            ],
+            "summary": "Announces Public Safety Power Shutoffs ( PSPS ) added to utility's wildfire plan Announces Public Safety Power Shutoffs ( PSPS ) added to utility's wildfire plan ...",
+            "banner_image": "https:\/\/ml.globenewswire.com\/Resource\/Download\/781cf86b-3c68-4fef-b549-e9a6b98947c1",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.219319,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AVA",
+                    "relevance_score": "0.739762",
+                    "ticker_sentiment_score": "0.326455",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Advisor Takes Fight for Deferred Pay to Merrill Lynch",
+            "url": "https:\/\/www.barrons.com\/advisor\/articles\/merrill-lynch-advisor-deferred-compensation-lawsuit-c8ab56a5",
+            "time_published": "20240507T181500",
+            "authors": [
+                "Andrew Welsch"
+            ],
+            "summary": "Financial Advisor Sues Merrill Lynch Over Deferred Compensation ...",
+            "banner_image": "https:\/\/images.barrons.com\/im-97009792\/social",
+            "source": "Barrons",
+            "category_within_source": "n\/a",
+            "source_domain": "www.barrons.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.358203,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.436009",
+                    "ticker_sentiment_score": "-0.447071",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Strathcona Reports Voting Results from the 2024 Annual Meeting of Shareholders",
+            "url": "https:\/\/www.newswire.ca\/news-releases\/strathcona-reports-voting-results-from-the-2024-annual-meeting-of-shareholders-896743821.html",
+            "time_published": "20240507T181300",
+            "authors": [
+                "Strathcona Resources Ltd."
+            ],
+            "summary": "CALGARY, AB, May 7, 2024 \/CNW\/ - Strathcona Resources Ltd. ( \"Strathcona\" or the \"Company\" ) ( TSX: SCR ) today reported its voting results from its annual meeting of shareholders held on May 7, 2024 ( the \"Meeting\" ) .",
+            "banner_image": "https:\/\/mma.prnewswire.com\/media\/2406989\/Strathcona_Resources_Ltd__Strathcona_Reports_Voting_Results_from.jpg?p=facebook",
+            "source": "Canada Newswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.newswire.ca",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.358109,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "STHRF",
+                    "relevance_score": "0.220809",
+                    "ticker_sentiment_score": "0.088419",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Costco, 5 Stocks To Watch In Today's Market",
+            "url": "https:\/\/www.investors.com\/research\/costco-stock-cost-buy-points\/",
+            "time_published": "20240507T181200",
+            "authors": [
+                "SCOTT LEHTONEN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Costco Stock, Other Names From Favorite IBD Screen Hit Buy Points Investor's Business Daily ...",
+            "banner_image": "https:\/\/www.investors.com\/wp-content\/uploads\/2018\/10\/Stock-Costco-05-shutt.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n\/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998962"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.246058,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "III",
+                    "relevance_score": "0.07887",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FIS",
+                    "relevance_score": "0.15697",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.447528",
+                    "ticker_sentiment_score": "0.067845",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAND",
+                    "relevance_score": "0.233556",
+                    "ticker_sentiment_score": "0.226044",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CTAS",
+                    "relevance_score": "0.233556",
+                    "ticker_sentiment_score": "0.172615",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "STRL",
+                    "relevance_score": "0.233556",
+                    "ticker_sentiment_score": "0.205439",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:GBP",
+                    "relevance_score": "0.15697",
+                    "ticker_sentiment_score": "0.154087",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Hinduja rejigs consortium to acquire cash-strapped Reliance Capital",
+            "url": "https:\/\/www.business-standard.com\/companies\/news\/hinduja-restructures-consortium-to-buy-cash-strapped-reliance-capital-124050701240_1.html",
+            "time_published": "20240507T181127",
+            "authors": [
+                "Dev Chatterjee"
+            ],
+            "summary": "Mauritius-based IndusInd International Holdings Ltd ( IIHL ) has restructured the consortium to acquire Reliance Capital by introducing more four new India-based entities to it -- Cyqure India, Ecopolis Properties, Cyqurex Technologies, and IIHL BFSI Holding.",
+            "banner_image": "https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2024-05\/05\/full\/1714910189-8621.jpg?im=FitAndFill=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.105931,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Did XRP price just bottom against Bitcoin?",
+            "url": "https:\/\/cointelegraph.com\/news\/did-xrp-price-just-bottom-against-bitcoin",
+            "time_published": "20240507T180659",
+            "authors": [
+                "Zoltan Vardai"
+            ],
+            "summary": "XRP price fell over 14% year-to-date pressured by Ripple's ongoing legal battle with the SEC so a bounce is in order, analysis suggests.",
+            "banner_image": "https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2024-05\/482d2f40-73bc-45e1-b8b8-bd3bc36ee7e7.jpg",
+            "source": "Cointelegraph",
+            "category_within_source": "n\/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.031487,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.642977",
+                    "ticker_sentiment_score": "-0.113786",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Peloton Stock Surged Today",
+            "url": "https:\/\/www.fool.com\/investing\/2024\/05\/07\/why-peloton-stock-surged-today\/",
+            "time_published": "20240507T180607",
+            "authors": [
+                "Jeremy Bowman"
+            ],
+            "summary": "Rumors are swirling of a possible takeover of the connected fitness company.",
+            "banner_image": "https:\/\/g.foolcdn.com\/image\/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F776263%2Fpeloton_man_riding_bike_plus_source_peloton.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.213433,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PTON",
+                    "relevance_score": "0.301315",
+                    "ticker_sentiment_score": "0.331803",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Biotech Leader, BeiGene, Inaugurates Office in Toronto, Canada",
+            "url": "https:\/\/www.newswire.ca\/news-releases\/biotech-leader-beigene-inaugurates-office-in-toronto-canada-851904385.html",
+            "time_published": "20240507T180200",
+            "authors": [
+                "BeiGene Canada"
+            ],
+            "summary": "New Office in Canada Signals BeiGene's Commitment to Innovating Cancer Care for Canadians TORONTO, May 7, 2024 \/CNW\/ - BeiGene Canada, the country affiliate of global oncology company BeiGene, specializing in the discovery and development of novel, affordable, and accessible oncology medications, ...",
+            "banner_image": "https:\/\/mma.prnewswire.com\/media\/2405656\/BeiGene_Canada_Biotech_Leader_%C2%A0BeiGene__Inaugurates_Office_in_To.jpg?p=facebook",
+            "source": "Canada Newswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.newswire.ca",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.359314,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BGNE",
+                    "relevance_score": "0.705799",
+                    "ticker_sentiment_score": "0.472171",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "REDISTRIBUTION - GlobalTech Corporation Announces Trading of its Common Stock",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877125\/0\/en\/REDISTRIBUTION-GlobalTech-Corporation-Announces-Trading-of-its-Common-Stock.html",
+            "time_published": "20240507T180200",
+            "authors": [
+                "Globaltech Corporation"
+            ],
+            "summary": "RENO, Nev., May 07, 2024 ( GLOBE NEWSWIRE ) -- GlobalTech Corporation ( OTC: GLTK ) , is pleased to announce the trading of its common stock on the Over-the-Counter Market ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995973"
+                }
+            ],
+            "overall_sentiment_score": 0.126625,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GLBH",
+                    "relevance_score": "0.824317",
+                    "ticker_sentiment_score": "0.253819",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "New South Korean leadership will press for BTC ETF trading",
+            "url": "https:\/\/cointelegraph.com\/news\/democratic-party-south-korea-spot-bitcoin-etfs-fsc",
+            "time_published": "20240507T180150",
+            "authors": [
+                "Derek Andersen"
+            ],
+            "summary": "The Democratic Party of Korea promised to allow Bitcoin exchange-traded funds and it expects to follow through, one way or another.",
+            "banner_image": "https:\/\/images.cointelegraph.com\/cdn-cgi\/image\/format=auto,onerror=redirect,quality=90,width=1200\/https:\/\/s3.cointelegraph.com\/uploads\/2024-05\/69da59b1-4010-4dce-aea0-cdfccfd160c3.jpg",
+            "source": "Cointelegraph",
+            "category_within_source": "n\/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.917436"
+                }
+            ],
+            "overall_sentiment_score": 0.242299,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.533481",
+                    "ticker_sentiment_score": "0.371304",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.229149",
+                    "ticker_sentiment_score": "0.232844",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Trump Defeating Biden Would Be Good for Bitcoin: Standard Chartered",
+            "url": "https:\/\/decrypt.co\/229761\/trump-defeating-biden-good-bitcoin-standard-chartered",
+            "time_published": "20240507T180133",
+            "authors": [
+                "Mat Di Salvo"
+            ],
+            "summary": "Analysts at British bank Standard Chartered today said that a second Donald Trump presidency could do Bitcoin good.",
+            "banner_image": "https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2019\/12\/shutterstock_389315497-e1576766150598-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n\/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.387244,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.395012",
+                    "ticker_sentiment_score": "0.548677",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.879272",
+                    "ticker_sentiment_score": "0.652255",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Sprott Inc. Declares First Quarter 2024 Dividend",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877124\/35318\/en\/Sprott-Inc-Declares-First-Quarter-2024-Dividend.html",
+            "time_published": "20240507T180100",
+            "authors": [
+                "Sprott",
+                "Inc."
+            ],
+            "summary": "TORONTO, May 07, 2024 ( GLOBE NEWSWIRE ) -- Sprott Inc. ( \"Sprott\" or the \"Company\" ) ( NYSE\/TSX: SII ) announced today that its Board of Directors has declared a first quarter 2024 dividend of US$0.25 per common share, payable on June 5, 2024 to shareholders of record at the close of business ...",
+            "banner_image": "https:\/\/ml.globenewswire.com\/Resource\/Download\/fad10bcd-5c9b-4e30-a7e7-76966ac7cda6",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.996718"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.240456,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SII",
+                    "relevance_score": "0.634282",
+                    "ticker_sentiment_score": "0.222676",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Coherent  ( COHR )  Q3 2024 Earnings Call Transcript",
+            "url": "https:\/\/www.fool.com\/earnings\/call-transcripts\/2024\/05\/07\/coherent-cohr-q3-2024-earnings-call-transcript\/",
+            "time_published": "20240507T180013",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "COHR earnings call for the period ending March 31, 2024.",
+            "banner_image": "https:\/\/g.foolcdn.com\/misc-assets\/fool-transcripts-logo.png",
+            "source": "Motley Fool",
+            "category_within_source": "n\/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.292969,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.005333",
+                    "ticker_sentiment_score": "0.141174",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.005333",
+                    "ticker_sentiment_score": "0.071068",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.005333",
+                    "ticker_sentiment_score": "0.073532",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "GCPL takes Rs 2,389 cr one-time hit over Africa market strategy tweak",
+            "url": "https:\/\/www.business-standard.com\/companies\/news\/gcpl-takes-rs-2-389-cr-one-time-hit-over-change-in-africa-market-strategy-124050701381_1.html",
+            "time_published": "20240507T175828",
+            "authors": [
+                "Sharleen Dsouza"
+            ],
+            "summary": "Due to the restructuring exercise, the company reported an impairment loss of Rs 1,390.8 crore, attributed to its brand and goodwill for Africa, which included its brand Strength of Nature",
+            "banner_image": "https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2024-05\/01\/full\/1714578584-929.jpg?im=FeatureCrop,size=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.180936,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "This Crypto Analyst Remains 'Turbo Optimistic,' Claims 'We're About 1\/3 Through' The Bull Run",
+            "url": "https:\/\/www.benzinga.com\/markets\/cryptocurrency\/24\/05\/38678486\/this-crypto-analyst-remains-turbo-optimistic-claims-were-about-13-through-the-bull-run",
+            "time_published": "20240507T175043",
+            "authors": [
+                "Murtuza Merchant"
+            ],
+            "summary": "Cryptocurrency trader 0xsmac on Tuesday challenged the prevailing notion that the crypto market is nearing the middle or end of its current cycle, pointing instead to a variety of data points to claim that it is still in its early stages.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/bitcoin-shutter3.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.085175,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.081276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.081276",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.316846",
+                    "ticker_sentiment_score": "0.051897",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Datadog Stock Tanked After Q1 Earnings? - Datadog  ( NASDAQ:DDOG ) ",
+            "url": "https:\/\/www.benzinga.com\/news\/earnings\/24\/05\/38678419\/why-datadog-stock-tanked-after-q1-earnings",
+            "time_published": "20240507T174840",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Datadog, Inc DDOG stock dropped after it reported its quarterly results on Tuesday. The company clocked fiscal first-quarter revenue growth of 27% year-on-year to $611.3 million, beating the analyst consensus estimate of $591.3 million. Adjusted EPS of $0.44 beat the analyst consensus estimate ...",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/Datadog.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.12912,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.123526",
+                    "ticker_sentiment_score": "0.202562",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DDOG",
+                    "relevance_score": "0.912705",
+                    "ticker_sentiment_score": "0.205775",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Smart Money Is Betting Big In GOLD Options - Barrick Gold  ( NYSE:GOLD ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/options\/24\/05\/38678360\/smart-money-is-betting-big-in-gold-options",
+            "time_published": "20240507T174552",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bullish stance on Barrick Gold GOLD. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.227044,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOLD",
+                    "relevance_score": "0.646507",
+                    "ticker_sentiment_score": "0.410822",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "RKIGF",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "0.103065",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NEM",
+                    "relevance_score": "0.082111",
+                    "ticker_sentiment_score": "0.103065",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Is What Whales Are Betting On GE Aero - GE Aero  ( NYSE:GE ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/options\/24\/05\/38678358\/this-is-what-whales-are-betting-on-ge-aero",
+            "time_published": "20240507T174547",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Financial giants have made a conspicuous bearish move on GE Aero. Our analysis of options history for GE Aero GE revealed 22 unusual trades. Delving into the details, we found 31% of traders were bullish, while 40% showed bearish tendencies.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_5.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.106289,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.077343",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.077343",
+                    "ticker_sentiment_score": "-0.103311",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Unpacking the Latest Options Trading Trends in Affirm Holdings - Affirm Holdings  ( NASDAQ:AFRM ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/options\/24\/05\/38678357\/unpacking-the-latest-options-trading-trends-in-affirm-holdings",
+            "time_published": "20240507T174541",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bullish stance on Affirm Holdings AFRM. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.264103,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AFRM",
+                    "relevance_score": "0.7887",
+                    "ticker_sentiment_score": "0.451585",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin Fan Jack Dorsey Takes Kendrick Lamar's Side in Drake Beef",
+            "url": "https:\/\/decrypt.co\/229729\/bitcoin-fan-jack-dorsey-kendrick-lamar-drake",
+            "time_published": "20240507T174255",
+            "authors": [
+                "Sander Lutz"
+            ],
+            "summary": "Who's winning the Kendrick and Drake lyrical war? Dorsey says it's no contest.",
+            "banner_image": "https:\/\/cdn.decrypt.co\/resize\/1024\/height\/512\/wp-content\/uploads\/2024\/05\/kendrick-lamar-drake-beef-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n\/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.024401,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.090474",
+                    "ticker_sentiment_score": "-0.103888",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.090474",
+                    "ticker_sentiment_score": "0.289355",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NAR Chief Economist Lawrence Yun Predicts Falling Long-Term Interest Rates, Rising Existing-Home Sales in 2024",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38678292\/nar-chief-economist-lawrence-yun-predicts-falling-long-term-interest-rates-rising-existing-home-sa",
+            "time_published": "20240507T174234",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "WASHINGTON, May 07, 2024 ( GLOBE NEWSWIRE ) -- National Association of Realtors\u00ae Chief Economist Lawrence Yun forecasts that interest rates will fall in the long term, 2024 existing-home sales will rise to 4.46 million ( up 9% from 4.09 million in 2023 ) and 2025 existing-home sales will ...",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.890401"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.714479"
+                }
+            ],
+            "overall_sentiment_score": 0.055472,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Shopify Prepares To Report Q1 Earnings: Charts Indicate Bullish Reversal, Analysts Predict Downside - Shopify  ( NYSE:SHOP ) ",
+            "url": "https:\/\/www.benzinga.com\/analyst-ratings\/analyst-color\/24\/05\/38678258\/shopify-prepares-to-report-q1-earnings-charts-indicate-bullish-reversal-analysts-pr",
+            "time_published": "20240507T174029",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "Shopify Inc SHOP is reporting its first-quarter earnings on Wednesday. Wall Street expects 17 cents in EPS and $1.845 billion in revenues as the company reports before market hours. The stock is up 18.44% over the past year but down 2.04% YTD.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/Shopify.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.692272"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.247955,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.8362",
+                    "ticker_sentiment_score": "0.363534",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "-0.035009",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.100729",
+                    "ticker_sentiment_score": "-0.035009",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Gainey McKenna & Egleston Announces A Class Action Lawsuit Has Been Filed Against Altimmune, Inc  ( ALT )  - Altimmune  ( NASDAQ:ALT ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38678256\/gainey-mckenna-egleston-announces-a-class-action-lawsuit-has-been-filed-against-altimmune-inc-alt",
+            "time_published": "20240507T174019",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 07, 2024 ( GLOBE NEWSWIRE ) -- Gainey McKenna & Egleston announces that a securities class action lawsuit has been filed in the United States District Court for the District of Maryland on behalf of all persons or entities who purchased or otherwise acquired Altimmune, Inc. ( ...",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.024537,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "ALT",
+                    "relevance_score": "0.331024",
+                    "ticker_sentiment_score": "0.012333",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tokenization Pioneer Teams Up With Innovative Modular Housing Manufacturer - Diamond Lake Minerals  ( OTC:DLMI ) ",
+            "url": "https:\/\/www.benzinga.com\/partner\/cryptocurrency\/24\/05\/38678236\/tokenization-pioneer-teams-up-with-innovative-modular-housing-manufacturer",
+            "time_published": "20240507T173935",
+            "authors": [
+                "Johnny Rice"
+            ],
+            "summary": "Brian J. Esposito, CEO of Diamond Lake Minerals, Inc. DLMI, and Galiano Tiramani, Founder of BOXABL, were recently interviewed by Benzinga. Diamond Lake Minerals specializes in the development and support of digital assets and SEC-registered security tokens.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/Screenshot-2024-05-07-at-11-06-32PM.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                }
+            ],
+            "overall_sentiment_score": 0.342636,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DLMI",
+                    "relevance_score": "0.651499",
+                    "ticker_sentiment_score": "0.768939",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Why Hims & Hers Health Stock Is Rising Today - Hims & Hers Health  ( NYSE:HIMS ) ",
+            "url": "https:\/\/www.benzinga.com\/news\/earnings\/24\/05\/38678215\/why-hims-hers-health-stock-is-rising-today",
+            "time_published": "20240507T173913",
+            "authors": [
+                "Dylan Berman"
+            ],
+            "summary": "Hims and Hers Health Inc. HIMS shares are up Tuesday after the company reported better-than-expected first quarter financial results. The Details: After the market close on Monday, Hims & Hers Health reported strong first-quarter results that included revenue of $278.2 million, representing a 46% ...",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/Hims--Hers_0.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.918141"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.281542,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HIMS",
+                    "relevance_score": "0.887556",
+                    "ticker_sentiment_score": "0.518596",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Orkuveita Reykjav\u00edkur - Green Bond Auction May 14th",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877115\/0\/en\/Orkuveita-Reykjav%C3%ADkur-Green-Bond-Auction-May-14th.html",
+            "time_published": "20240507T173900",
+            "authors": [
+                "Orkuveita Reykjav\u00edkur"
+            ],
+            "summary": "Reykjav\u00edk Energy ( Orkuveita Reykjav\u00edkur. OR ) is holding a bond auction on Tuesday, May 14th, 2024. Bonds in the green bond classes OR020934 GB and OR180255 GB will be offered for sale.",
+            "banner_image": "https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/d59134c5-3c6f-4bc1-9911-1ca4a9e4fb1d",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.287875,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Sunita -piloted Starliner now targets Friday launch after initial delay",
+            "url": "https:\/\/www.business-standard.com\/world-news\/sunita-piloted-starliner-now-targets-friday-launch-after-initial-delay-124050701580_1.html",
+            "time_published": "20240507T173745",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "The historic first crewed mission of Boeing Co.'s Starliner space capsule will now target launch as early as Friday, following a technical issue that prevented the initial flight on Monday.",
+            "banner_image": "https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2024-05\/07\/full\/1715103355-2323.jpg?im=FitAndFill=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.103331",
+                    "ticker_sentiment_score": "0.019606",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BA",
+                    "relevance_score": "0.701177",
+                    "ticker_sentiment_score": "0.099338",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "AXT, INC.  ( NASDAQ: AXTI )  INVESTOR ALERT: Bernstein Liebhard LLP Announces that a Securities Class Action Lawsuit Has Been Filed Against AXT, Inc. - AXT  ( NASDAQ:AXTI ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38678164\/axt-inc-nasdaq-axti-investor-alert-bernstein-liebhard-llp-announces-that-a-securities-class-action",
+            "time_published": "20240507T173702",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "NEW YORK, May 07, 2024 ( GLOBE NEWSWIRE ) -- Bernstein Liebhard LLP: Do you, or did you, own shares of AXT, Inc. AXTI? Did you purchase your shares between March 24, 2021 and April 3, 2024, inclusive? Did you lose money in your investment in AXT, Inc.?",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.02203,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXTI",
+                    "relevance_score": "0.70048",
+                    "ticker_sentiment_score": "-0.316643",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft Introduces Isolated AI For US Intelligence To Analyze Secret Data: Report - Microsoft  ( NASDAQ:MSFT ) ",
+            "url": "https:\/\/www.benzinga.com\/markets\/equities\/24\/05\/38678153\/microsoft-introduces-isolated-ai-for-us-intelligence-to-analyze-secret-data-report",
+            "time_published": "20240507T173601",
+            "authors": [
+                "Shivani Kumaresan"
+            ],
+            "summary": "Microsoft Corp. MSFT has reportedly introduced a groundbreaking, deploying an isolated generative AI model accessible solely to U.S. intelligence agencies for analyzing classified data. The initiative marks the first instance where a major AI model functions entirely offline, according to a ...",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/artificial-intelligence-ai2.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                }
+            ],
+            "overall_sentiment_score": 0.30331,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.565345",
+                    "ticker_sentiment_score": "0.310144",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Aqua Metals Has Created A Novel Approach To Recycling Li-Ion Batteries That Is Safer And Greener - Aqua Metals  ( NASDAQ:AQMS ) ",
+            "url": "https:\/\/www.benzinga.com\/partner\/markets\/24\/05\/38678146\/aqua-metals-has-created-a-novel-approach-to-recycling-li-ion-batteries-that-is-safer-and-greener",
+            "time_published": "20240507T173516",
+            "authors": [
+                "Johnny Rice"
+            ],
+            "summary": "Steve Cotton, President & CEO of Aqua Metals AQMS, was recently a guest on Benzinga's All-Access. Aqua Metals is reinventing metals recycling with its patented hydrometallurgical AquaRefining\u2122 technology. Unlike smelting, AquaRefining is a room-temperature, water-based process that emits less ...",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/Screenshot-2024-05-07-at-11-01-50PM.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.272646,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AQMS",
+                    "relevance_score": "0.71032",
+                    "ticker_sentiment_score": "0.443662",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Datadog Earnings Overshadowed By Leadership Shift: What To Know",
+            "url": "https:\/\/www.kiplinger.com\/investing\/stocks\/datadog-earnings-overshadowed-by-leadership-shift-what-to-know",
+            "time_published": "20240507T173149",
+            "authors": [
+                "Joey Solitro"
+            ],
+            "summary": "Datadog ( DDOG ) stock is down more than 10% Tuesday even as the cloud monitoring and security firm beat top- and bottom-line expectations for its first quarter and raised its full-year outlook. In the three months ended March 31, Datadog's revenue increased 27% year-over-year to $611 million.",
+            "banner_image": "https:\/\/cdn.mos.cms.futurecdn.net\/hwgJ7osrMtUWhk5koeVme7-320-80.png",
+            "source": "Kiplinger",
+            "category_within_source": "n\/a",
+            "source_domain": "www.kiplinger.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.858979"
+                }
+            ],
+            "overall_sentiment_score": 0.290285,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.213706",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DDOG",
+                    "relevance_score": "0.751437",
+                    "ticker_sentiment_score": "0.26633",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Thunder Bridge Capital Partners IV, Inc. Announces Public Filing of Registration Statement with the SEC for Proposed Business Combination with Coincheck, Inc., a Subsidiary of Japan's Monex Group - Thunder Bridge Capital  ( NASDAQ:THCPU ) , Thunder Bridge Capital  ( NASDAQ:THCP ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38678054\/thunder-bridge-capital-partners-iv-inc-announces-public-filing-of-registration-statement-with-the-",
+            "time_published": "20240507T173148",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "GREAT FALLS, Va, May 07, 2024 ( GLOBE NEWSWIRE ) -- Coincheck Group B.V., which will become a holding company for Coincheck, Inc. ( \"Coincheck\" ) , one of the largest multi-cryptocurrency marketplaces and digital asset exchanges in Japan by verified account market share, and Thunder Bridge ...",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999981"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.182724,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.021446",
+                    "ticker_sentiment_score": "0.074267",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "THCP",
+                    "relevance_score": "0.085629",
+                    "ticker_sentiment_score": "0.125854",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Here's How Much $100 Invested In United States Steel 5 Years Ago Would Be Worth Today - United States Steel  ( NYSE:X ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/news\/24\/05\/38678053\/heres-how-much-100-invested-in-united-states-steel-5-years-ago-would-be-worth-today",
+            "time_published": "20240507T173147",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "United States Steel X has outperformed the market over the past 5 years by 7.95% on an annualized basis producing an average annual return of 20.97%. Currently, United States Steel has a market capitalization of $8.63 billion.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/valuestock_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.238974,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "X",
+                    "relevance_score": "0.949596",
+                    "ticker_sentiment_score": "0.383648",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Microsoft's Xbox Closes 4 Video Game Studios In Bethesda Restructuring - Microsoft  ( NASDAQ:MSFT ) ",
+            "url": "https:\/\/www.benzinga.com\/general\/gaming\/24\/05\/38678051\/microsofts-xbox-closes-4-video-game-studios-in-bethesda-restructure",
+            "time_published": "20240507T173132",
+            "authors": [
+                "Franca Quarneti"
+            ],
+            "summary": "Microsoft Corp. MSFT is shuttering several Bethesda studios and merging at least two - Roundhouse Games and ZeniMax Online Studios - sending shockwaves through the gaming industry.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/Bethesda-Softworks-Editorial--Illustrati.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Mergers",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.039146,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.379435",
+                    "ticker_sentiment_score": "0.181102",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "DEA And Cannabis Rescheduling: A Rollercoaster Ride You Don't Want To Miss, But Keep Your Seatbelts On",
+            "url": "https:\/\/www.benzinga.com\/markets\/cannabis\/24\/05\/38678043\/dea-and-cannabis-rescheduling-a-rollercoaster-ride-you-dont-want-to-miss-but-keep-your-seatbelts",
+            "time_published": "20240507T173118",
+            "authors": [
+                "Maureen Meehan"
+            ],
+            "summary": "Last Tuesday's breaking news of cannabis rescheduling drove the cannabis industry into overdrive with elated thoughts from tax relief to soaring marijuana stocks to cannabis scientists presuming they no longer have to keep their research labs locked up like Fort Knox.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2024\/05\/07\/DEA-Tues--drug-enforcement-administratio.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.155427,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.079392",
+                    "ticker_sentiment_score": "0.300389",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "SEC Chair Gensler dodges Trump Media campaign finance questions",
+            "url": "https:\/\/www.cnbc.com\/2024\/05\/07\/sec-chair-gensler-dodges-trump-media-campaign-finance-questions.html",
+            "time_published": "20240507T173115",
+            "authors": [
+                "Rebecca Picciotto"
+            ],
+            "summary": "DJT shares have bounced up and down since it debuted on the Nasdaq in March.",
+            "banner_image": "https:\/\/image.cnbcfm.com\/api\/v1\/image\/107411511-17150925552023-09-27t173720z_1695895588_rc25h3ahg28a_rtrmadp_0_usa-sec.jpeg?v=1715092570&w=1920&h=1080",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998356"
+                }
+            ],
+            "overall_sentiment_score": 0.1861,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Taylor Swift draws five times as many US luxury travelers as Olympics",
+            "url": "https:\/\/www.business-standard.com\/world-news\/taylor-swift-draws-five-times-as-many-us-luxury-travelers-as-olympics-124050701574_1.html",
+            "time_published": "20240507T173111",
+            "authors": [
+                "Bloomberg"
+            ],
+            "summary": "Paris authorities have spent years readying for the almost 2 million international visitors expected for the 2024 Summer Olympics, but they may have overlooked a far bigger phenomenon now coming to the city: Taylor Swift.",
+            "banner_image": "https:\/\/bsmedia.business-standard.com\/_media\/bs\/img\/article\/2024-05\/07\/full\/1715102990-8673.jpg?im=FaceCrop,size=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.07779,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PARA",
+                    "relevance_score": "0.085324",
+                    "ticker_sentiment_score": "0.143929",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Check Out What Whales Are Doing With CLSK - Cleanspark  ( NASDAQ:CLSK ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/options\/24\/05\/38678038\/check-out-what-whales-are-doing-with-clsk",
+            "time_published": "20240507T173101",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Financial giants have made a conspicuous bullish move on Cleanspark. Our analysis of options history for Cleanspark CLSK revealed 18 unusual trades. Delving into the details, we found 44% of traders were bullish, while 44% showed bearish tendencies.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_1.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.185565,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CLSK",
+                    "relevance_score": "0.804025",
+                    "ticker_sentiment_score": "0.221598",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.395012",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Thunder Bridge Capital Partners IV, Inc. Announces Public Filing of Registration Statement with the SEC for Proposed Business Combination with Coincheck, Inc., a Subsidiary of Japan's Monex Group",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877111\/0\/en\/Thunder-Bridge-Capital-Partners-IV-Inc-Announces-Public-Filing-of-Registration-Statement-with-the-SEC-for-Proposed-Business-Combination-with-Coincheck-Inc-a-Subsidiary-of-Japan-s-M.html",
+            "time_published": "20240507T173100",
+            "authors": [
+                "Inc.",
+                "Thunder Bridge Capital Partners IV"
+            ],
+            "summary": "GREAT FALLS, Va, May 07, 2024 ( GLOBE NEWSWIRE ) -- Coincheck Group B.V., which will become a holding company for Coincheck, Inc. ( \"Coincheck\" ) , one of the largest multi-cryptocurrency marketplaces and digital asset exchanges in Japan by verified account market share, and Thunder Bridge ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99994"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.178091,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.021937",
+                    "ticker_sentiment_score": "0.076326",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "THCP",
+                    "relevance_score": "0.065745",
+                    "ticker_sentiment_score": "0.125359",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What the Options Market Tells Us About Wells Fargo - Wells Fargo  ( NYSE:WFC ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/options\/24\/05\/38678037\/what-the-options-market-tells-us-about-wells-fargo",
+            "time_published": "20240507T173056",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bullish stance on Wells Fargo WFC. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                }
+            ],
+            "overall_sentiment_score": 0.236607,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.717937",
+                    "ticker_sentiment_score": "0.447956",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Market Whales and Their Recent Bets on Morgan Stanley Options - Morgan Stanley  ( NYSE:MS ) ",
+            "url": "https:\/\/www.benzinga.com\/insights\/options\/24\/05\/38678036\/market-whales-and-their-recent-bets-on-morgan-stanley-options",
+            "time_published": "20240507T173051",
+            "authors": [
+                "Benzinga Insights"
+            ],
+            "summary": "Investors with a lot of money to spend have taken a bearish stance on Morgan Stanley MS. We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know.",
+            "banner_image": "https:\/\/cdn.benzinga.com\/files\/images\/story\/2023\/movers_image_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                }
+            ],
+            "overall_sentiment_score": 0.1988,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.712214",
+                    "ticker_sentiment_score": "0.363302",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "DEADLINE ALERT for PLUG, EVLV, BLUE, LUNA: Law Offices of Howard G. Smith Reminds Investors of Class Actions on Behalf of Shareholders - bluebird bio  ( NASDAQ:BLUE ) , Evolv Technologies  ( NASDAQ:EVLV ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38678029\/deadline-alert-for-plug-evlv-blue-luna-law-offices-of-howard-g-smith-reminds-investors-of-class-ac",
+            "time_published": "20240507T173043",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "BENSALEM, Pa., May 07, 2024 ( GLOBE NEWSWIRE ) -- Law Offices of Howard G. Smith reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion.",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.00985,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EVLV",
+                    "relevance_score": "0.099066",
+                    "ticker_sentiment_score": "0.117744",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLUG",
+                    "relevance_score": "0.099066",
+                    "ticker_sentiment_score": "0.117744",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BLUE",
+                    "relevance_score": "0.099066",
+                    "ticker_sentiment_score": "0.117744",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DSSMY",
+                    "relevance_score": "0.291182",
+                    "ticker_sentiment_score": "0.05611",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LUNA",
+                    "relevance_score": "0.099066",
+                    "ticker_sentiment_score": "0.117744",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "EXAI Class Action Alert: Robbins LLP Reminds Investors of the Lead Plaintiff Deadline in the Class Action Against Exscientia plc - Exscientia  ( NASDAQ:EXAI ) ",
+            "url": "https:\/\/www.benzinga.com\/pressreleases\/24\/05\/g38678027\/exai-class-action-alert-robbins-llp-reminds-investors-of-the-lead-plaintiff-deadline-in-the-class-",
+            "time_published": "20240507T173038",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SAN DIEGO, May 07, 2024 ( GLOBE NEWSWIRE ) -- Robbins LLP reminds investors that a shareholder filed a class action on behalf of all persons and entities that purchased or otherwise acquired Exscientia plc EXAI securities between March 23, 2022 and February 12, 2024.",
+            "banner_image": "https:\/\/www.benzinga.com\/next-assets\/images\/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.039013,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EXAI",
+                    "relevance_score": "0.577838",
+                    "ticker_sentiment_score": "0.235489",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "JCDecaux : Annual General Meeting of JCDecaux SE of 7 May 2024",
+            "url": "https:\/\/www.globenewswire.com\/news-release\/2024\/05\/07\/2877107\/0\/en\/JCDecaux-Annual-General-Meeting-of-JCDecaux-SE-of-7-May-2024.html",
+            "time_published": "20240507T173000",
+            "authors": [
+                "JCDecaux"
+            ],
+            "summary": "Annual General Meeting of JCDecaux SE of 7 May ...",
+            "banner_image": "https:\/\/ml-eu.globenewswire.com\/Resource\/Download\/00b42215-5cad-4179-b06c-441f155e187f",
+            "source": "GlobeNewswire",
+            "category_within_source": "n\/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.177133,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "JCDXF",
+                    "relevance_score": "0.553265",
+                    "ticker_sentiment_score": "0.118502",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}
